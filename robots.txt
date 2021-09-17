@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://letssave.com.br/sitemap.xml
